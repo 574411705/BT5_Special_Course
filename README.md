@@ -1,1 +1,1 @@
-# sanshangyouya
+# Repository storing code for the special course Bluetooth 5 technology evaluation and IoT applications
