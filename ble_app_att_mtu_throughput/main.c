@@ -85,18 +85,13 @@
 #define CONN_SUP_TIMEOUT                (uint16_t)(MSEC_TO_UNITS(4000,  UNIT_10_MS))    /**< Connection supervisory timeout (4 seconds). */
 #define SLAVE_LATENCY                   0                                               /**< Slave latency. */
 
-//XUAN
-#define SLOW_BLINK_INTERVAL     APP_TIMER_TICKS(750)
-APP_TIMER_DEF(m_1Mbps_led_slow_blink_timer_id);                /**< Timer used to toggle LED for phy selection indication on the dev.kit. */
-//XUAN
-
 #define SCAN_ADV_LED                    BSP_BOARD_LED_0
 #define READY_LED                       BSP_BOARD_LED_1
 #define PROGRESS_LED                    BSP_BOARD_LED_2
 #define DONE_LED                        BSP_BOARD_LED_3
 
-#define PHY_SELECTION_BUTTON                  BSP_BUTTON_0
-#define PHY_SELECTION_BUTTON_EVENT            BSP_EVENT_KEY_0
+#define PHY_SELECTION_BUTTON_1M         BSP_BUTTON_0
+#define PHY_SELECTION_BUTTON_coded      BSP_BUTTON_1
 #define BOARD_TESTER_BUTTON             BSP_BUTTON_2                                    /**< Button to press at the beginning of the test to indicate that this board is connected to the PC and takes input from it via the UART. */
 #define BOARD_DUMMY_BUTTON              BSP_BUTTON_3                                    /**< Button to press at the beginning of the test to indicate that this board is standalone (automatic behavior). */
 #define BUTTON_DETECTION_DELAY          APP_TIMER_TICKS(50)                             /**< Delay from a GPIOTE event until a button is reported as pushed (in number of timer ticks). */
@@ -105,8 +100,8 @@ APP_TIMER_DEF(m_1Mbps_led_slow_blink_timer_id);                /**< Timer used t
 #define APP_BLE_OBSERVER_PRIO           3                                               /**< BLE observer priority of the application. There is no need to modify this value. */
 
 static uint8_t m_adv_handle = BLE_GAP_ADV_SET_HANDLE_NOT_SET;                           /**< Advertising handle used to identify an advertising set. */
-static uint8_t m_enc_advdata[BLE_GAP_ADV_SET_DATA_SIZE_MAX]; 
-static void set_current_scan_params_and_start_scanning(void);                           /**< Buffer for storing an encoded advertising set. */
+static uint8_t m_enc_advdata[BLE_GAP_ADV_SET_DATA_SIZE_MAX];                            /**< Buffer for storing an encoded advertising set. */
+
 /**@brief Struct that contains pointers to the encoded advertising data. */
 static ble_gap_adv_data_t m_adv_data =
 {
@@ -131,14 +126,6 @@ typedef enum
     BOARD_DUMMY,
 } board_role_t;
 
-//XUAN, 2020
-typedef enum
-{
-    SELECTION_1M_PHY = 0, 
-    SELECTION_CODED_PHY
-} adv_scan_phy_seclection_t;
-//XUAN
-
 typedef struct
 {
     uint16_t        att_mtu;                    /**< GATT ATT MTU, in bytes. */
@@ -159,9 +146,6 @@ NRF_BLE_SCAN_DEF(m_scan);                       /**< Scanning Module instance. *
 
 static nrf_ble_amtc_t     m_amtc;
 static nrf_ble_amts_t     m_amts;
-//XUAN
-static adv_scan_phy_seclection_t m_adv_scan_phy_selected = SELECTION_CODED_PHY; //XUAN
-
 NRF_SDH_BLE_OBSERVER(m_amtc_ble_obs, BLE_AMTC_BLE_OBSERVER_PRIO, nrf_ble_amtc_on_ble_evt, &m_amtc);
 NRF_SDH_BLE_OBSERVER(m_amts_ble_obs, BLE_AMTS_BLE_OBSERVER_PRIO, nrf_ble_amts_on_ble_evt, &m_amts);
 
@@ -249,8 +233,7 @@ char const * phy_str(ble_gap_phys_t phys)
 
 
 static void instructions_print(void)
-{   
-    NRF_LOG_INFO("Button 1: switch between coded phy and 1Mbps");
+{
     NRF_LOG_INFO("Type 'config' to change the configuration parameters.");
     NRF_LOG_INFO("You can use the Tab key to autocomplete your input.");
     NRF_LOG_INFO("Type 'run' when you are ready to run the test.");
@@ -463,7 +446,6 @@ static void amts_evt_handler(nrf_ble_amts_evt_t evt)
             NRF_LOG_INFO("Notifications enabled.");
 
             bsp_board_led_on(READY_LED);
-            NRF_LOG_INFO("XUAN1")
             m_notif_enabled = true;
 
             if (m_board_role != BOARD_TESTER)
@@ -682,7 +664,6 @@ static void advertising_start(void)
     NRF_LOG_INFO("Starting advertising.");
 
     bsp_board_led_on(SCAN_ADV_LED);
-    NRF_LOG_INFO("XUAN1");
 
     UNUSED_RETURN_VALUE(sd_ble_gap_adv_stop(m_adv_handle));
 
@@ -790,28 +771,12 @@ static void leds_init(void)
  *
  * @details Initializes the timer module. This creates and starts application timers.
  */
-
-//XUAN
-static void led_1Mbps_slow_blink_timeout_handler(void * p_context)
-{
-    bsp_board_led_invert(SCAN_ADV_LED);    
-}   
-                 
-//XUAN
-
-
-
-//XUAN
 static void timer_init(void)
 {
     ret_code_t err_code = app_timer_init();
     APP_ERROR_CHECK(err_code);
-
-    err_code = app_timer_create(&m_1Mbps_led_slow_blink_timer_id, APP_TIMER_MODE_REPEATED, led_1Mbps_slow_blink_timeout_handler);
-  APP_ERROR_CHECK(err_code);
-  
 }
-//XUAN
+
 
 /**@brief Function for enabling button input.
  */
@@ -834,75 +799,8 @@ static void buttons_disable(void)
  * @param[in] pin_no        The pin that the event applies to.
  * @param[in] button_action The button action (press or release).
  */
-
-
-//XUAN
-
-static void phy_selection_set_state(adv_scan_phy_seclection_t new_phy_selection)
+static void button_evt_handler(uint8_t pin_no, uint8_t button_action)
 {
-  ret_code_t err_code;
-  m_adv_scan_phy_selected = new_phy_selection;
-  
-  switch (new_phy_selection)
-  {
-    case SELECTION_1M_PHY:  // SELECTION_1M_PHY is the current "state".
-    {
-      // 1 Mbps is the current state, LED should start blinking.
-      err_code = app_timer_start(m_1Mbps_led_slow_blink_timer_id, SLOW_BLINK_INTERVAL, NULL);
-      APP_ERROR_CHECK(err_code);
-    } break;
-    
-    case SELECTION_CODED_PHY:
-    {
-      // Coded phy is the current sate, turn on LED.
-      err_code = app_timer_stop(m_1Mbps_led_slow_blink_timer_id); 
-      APP_ERROR_CHECK(err_code);
-      
-      bsp_board_led_on(SCAN_ADV_LED);
-      bsp_board_led_off(DONE_LED); // todo for debugging.
-    } break;
-  }
-}
-static void on_phy_selection_button(void)
-{
-  // Change the selected phy.
-  adv_scan_phy_seclection_t new_phy_selection;
-  switch (m_adv_scan_phy_selected)
-  {
-    case SELECTION_CODED_PHY:  // SELECTION_CODED_PHY is the previous "state".
-    {
-      // 1 Mbps is the current state, LED should start blinking.
-      new_phy_selection = SELECTION_1M_PHY; 
-    } break;
-    
-    case SELECTION_1M_PHY:
-    {
-      // Coded phy is the current sate, turn on LED.
-      new_phy_selection = SELECTION_CODED_PHY;
-    } break;
-    
-
-  }
-  phy_selection_set_state(new_phy_selection);
-}
-
-
-//XUAN
-
-
-
-static void button_evt_handler(bsp_event_t event, uint8_t pin_no, uint8_t button_action)
-{   
-
-        switch (event)
-        {
-          case PHY_SELECTION_BUTTON_EVENT:
-          {
-            on_phy_selection_button();
-          } break;
-                        
-        }
-
     switch (pin_no)
     {
         case BOARD_TESTER_BUTTON:
@@ -911,7 +809,27 @@ static void button_evt_handler(bsp_event_t event, uint8_t pin_no, uint8_t button
             instructions_print();
             m_board_role = BOARD_TESTER;
         } break;
-        
+        case PHY_SELECTION_BUTTON_1M:
+        {
+            NRF_LOG_INFO("phy_sel");
+            m_test_params.phys.tx_phys  =  BLE_GAP_PHY_1MBPS;
+
+            NRF_LOG_INFO("This board will act as tester.");
+            instructions_print();
+            m_board_role = BOARD_TESTER;
+        } break;
+
+        case PHY_SELECTION_BUTTON_coded:
+        {
+            NRF_LOG_INFO("phy_sel");
+            m_test_params.phys.tx_phys  =  BLE_GAP_PHY_CODED;
+
+            NRF_LOG_INFO("This board will act as tester.");
+            instructions_print();
+            m_board_role = BOARD_TESTER;
+        } break;
+
+
 
         case BOARD_DUMMY_BUTTON:
         {
@@ -945,8 +863,8 @@ static void buttons_init(void)
 {
    // The array must be static because a pointer to it will be saved in the button library.
     static app_button_cfg_t buttons[] =
-    {
-        {PHY_SELECTION_BUTTON, false, BUTTON_PULL, button_evt_handler},
+    {   {PHY_SELECTION_BUTTON_1M, false, BUTTON_PULL, button_evt_handler},
+        {PHY_SELECTION_BUTTON_coded, false, BUTTON_PULL, button_evt_handler},
         {BOARD_TESTER_BUTTON, false, BUTTON_PULL, button_evt_handler},
         {BOARD_DUMMY_BUTTON,  false, BUTTON_PULL, button_evt_handler}
     };
@@ -1302,39 +1220,6 @@ void cli_start(void)
     APP_ERROR_CHECK(err_code);
 }
 
-//XUAN
-/**@brief Function for initializing buttons and leds.
- */
-static void buttons_leds_init(void)
-{
-    ret_code_t err_code;
-   
-    err_code = bsp_init(BSP_INIT_LEDS | BSP_INIT_BUTTONS, button_evt_handler);
-    APP_ERROR_CHECK(err_code);
-
-    bsp_board_leds_off();
-
-}
-
-
-
-/**@brief Function for start scanning with the current selections of output power, phy, and scanning "mode".
- */
-static void set_current_scan_params_and_start_scanning(void)
-{
-  
-  phy_selection_set_state(m_adv_scan_phy_selected);
-  scan_start();
-
-}
-
-
-//XUAN
-
-
-
-
-
 
 int main(void)
 {
@@ -1345,7 +1230,6 @@ int main(void)
     timer_init();
     counter_init();
     buttons_init();
-    //buttons_leds_init();
     power_management_init();
     ble_stack_init();
     gap_params_init();
@@ -1362,7 +1246,7 @@ int main(void)
     // Start execution.
     cli_start();
     buttons_enable();
-    set_current_scan_params_and_start_scanning();
+
     NRF_LOG_INFO("ATT MTU example started.");
     NRF_LOG_INFO("Press button 3 on the board connected to the PC.");
     NRF_LOG_INFO("Press button 4 on other board.");
