@@ -331,10 +331,11 @@ static void on_ble_gap_evt_disconnected(ble_gap_evt_t const * p_gap_evt)
  */
 static void ble_evt_handler(ble_evt_t const * p_ble_evt, void * p_context)
 {
-        // [Lines added begin here]  Can Zhang, Nov 2019, DTU Fotonik
+        // [Lines added begin here]  Xuan, 2020, DTU Fotonik
     static int8_t              rssi_value = 0;
     uint8_t                    channel_rssi;
-    // [Lines added end here]   Can Zhang, Nov 2019, DTU Fotonik
+    int8_t                     rssi_counter = 0;
+    // [Lines added end here]   Xuan, 2020, DTU Fotonik
     uint32_t              err_code;
     ble_gap_evt_t const * p_gap_evt = &p_ble_evt->evt.gap_evt;
 
@@ -382,11 +383,21 @@ static void ble_evt_handler(ble_evt_t const * p_ble_evt, void * p_context)
          NRF_LOG_INFO("RSSI changed, new: %d, channel: %d",rssi_value, channel_rssi);
          // Check if current RSSI is lower than a threshold Nov27
          
-        if (rssi_value<-40)
+        if (rssi_value<-60)
         {  
-          NRF_LOG_INFO("RSSI lower than... terminate test\n"); 
-          test_terminate();  
+          rssi_counter = rssi_counter+1;
+          if (rssi_counter = 2)
+          {  
+            NRF_LOG_INFO("RSSI lower than -70db, phy switches to 1M channel\n"); 
+            m_test_params.phys.tx_phys  =  BLE_GAP_PHY_1MBPS;
+          }
         }
+
+        //   if (rssi_value<-70)
+        // {  
+        //   NRF_LOG_INFO("RSSI lower than -70db, phy switches to coded channel\n"); 
+        //   m_test_params.phys.tx_phys  =  BLE_GAP_PHY_CODED;
+        // }
          
        } break;
         // [Lines added end here]   Can Zhang, Nov 2019, DTU Fotonik
@@ -814,8 +825,8 @@ static void button_evt_handler(uint8_t pin_no, uint8_t button_action)
             NRF_LOG_INFO("phy_sel");
             m_test_params.phys.tx_phys  =  BLE_GAP_PHY_1MBPS;
 
-            NRF_LOG_INFO("This board will act as tester.");
-            instructions_print();
+            NRF_LOG_INFO("This board will act as tester 1M.");
+            instructions_print(); 
             m_board_role = BOARD_TESTER;
         } break;
 
