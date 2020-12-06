@@ -1,0 +1,1289 @@
+
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:09.927,673] <info> app: Data length updated to 251 bytes.
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:09.927,734] <info> app: PHY update accepted. PHY set to Coded.
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:09.932,250] <info> app: RSSI changed, new: -69, channel: 27
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:09.947,082] <info> app: AMT service discovered at peer.
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:09.954,101] <info> app: Notifications enabled.
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:09.955,139] <info> app: Test started
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:10.043,518] <info> app: Sent 1 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:10.052,062] <info> app: RSSI changed, new: -65, channel: 9
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:10.134,033] <info> app: RSSI changed, new: -73, channel: 13
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:10.246,032] <info> app: RSSI changed, new: -66, channel: 35
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:10.356,384] <info> app: Sent 2 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:10.379,943] <info> app: RSSI changed, new: -69, channel: 17
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:10.476,928] <info> app: RSSI changed, new: -66, channel: 32
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:10.566,345] <info> app: RSSI changed, new: -71, channel: 4
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:10.648,864] <info> app: RSSI changed, new: -67, channel: 11
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:10.669,738] <info> app: Sent 3 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:10.775,268] <info> app: RSSI changed, new: -72, channel: 30
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:10.902,221] <info> app: RSSI changed, new: -57, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:10.983,154] <info> app: Sent 4 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:10.991,699] <info> app: RSSI changed, new: -69, channel: 25
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:11.103,637] <info> app: RSSI changed, new: -57, channel: 0
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:11.200,561] <info> app: RSSI changed, new: -74, channel: 21
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:11.290,039] <info> app: RSSI changed, new: -67, channel: 32
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:11.296,508] <info> app: Sent 5 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:11.394,470] <info> app: RSSI changed, new: -76, channel: 21
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:11.476,440] <info> app: RSSI changed, new: -67, channel: 33
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:11.595,886] <info> app: RSSI changed, new: -61, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:11.676,757] <info> app: Sent 6 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:11.700,378] <info> app: RSSI changed, new: -67, channel: 4
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:11.782,287] <info> app: RSSI changed, new: -65, channel: 16
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:11.864,257] <info> app: RSSI changed, new: -57, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:11.961,181] <info> app: RSSI changed, new: -71, channel: 26
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:11.975,158] <info> app: Sent 7 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:12.065,673] <info> app: RSSI changed, new: -65, channel: 14
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:12.162,597] <info> app: RSSI changed, new: -69, channel: 21
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:12.282,043] <info> app: RSSI changed, new: -74, channel: 27
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:12.288,513] <info> app: Sent 8 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:12.370,361] <info> app: RSSI changed, new: -58, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:12.460,937] <info> app: RSSI changed, new: -66, channel: 35
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:12.557,922] <info> app: RSSI changed, new: -69, channel: 22
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:12.594,360] <info> app: Sent 9 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:12.677,368] <info> app: RSSI changed, new: -75, channel: 29
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:12.766,784] <info> app: RSSI changed, new: -65, channel: 17
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:12.900,207] <info> app: Sent 10 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:12.908,752] <info> app: RSSI changed, new: -67, channel: 4
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:13.013,183] <info> app: RSSI changed, new: -59, channel: 2
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:13.102,722] <info> app: RSSI changed, new: -62, channel: 12
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:13.229,614] <info> app: RSSI changed, new: -58, channel: 2
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:13.280,578] <info> app: Sent 11 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:13.311,645] <info> app: RSSI changed, new: -69, channel: 34
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:13.468,017] <info> app: RSSI changed, new: -58, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:13.564,941] <info> app: RSSI changed, new: -84, channel: 15
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:13.586,425] <info> app: Sent 12 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:13.654,418] <info> app: RSSI changed, new: -62, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:13.751,647] <info> app: RSSI changed, new: -70, channel: 4
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:13.848,876] <info> app: RSSI changed, new: -74, channel: 23
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:13.892,272] <info> app: Sent 13 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:13.966,674] <info> app: RSSI changed, new: -76, channel: 16
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:14.064,819] <info> app: RSSI changed, new: -69, channel: 32
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:14.169,250] <info> app: RSSI changed, new: -77, channel: 30
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:14.190,673] <info> app: Sent 14 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:14.272,521] <info> app: RSSI changed, new: -71, channel: 19
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:14.385,620] <info> app: RSSI changed, new: -62, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:14.482,604] <info> app: RSSI changed, new: -69, channel: 6
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:14.496,520] <info> app: Sent 15 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:14.572,021] <info> app: RSSI changed, new: -67, channel: 6
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:14.652,832] <info> app: RSSI changed, new: -74, channel: 21
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:14.773,437] <info> app: RSSI changed, new: -69, channel: 31
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:14.884,216] <info> app: RSSI changed, new: -73, channel: 25
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:14.884,399] <info> app: Sent 16 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:14.989,868] <info> app: RSSI changed, new: -66, channel: 32
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:15.108,154] <info> app: RSSI changed, new: -63, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:15.182,678] <info> app: Sent 17 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:15.206,237] <info> app: RSSI changed, new: -71, channel: 6
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:15.295,715] <info> app: RSSI changed, new: -63, channel: 9
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:15.400,146] <info> app: RSSI changed, new: -71, channel: 30
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:15.480,957] <info> app: RSSI changed, new: -68, channel: 13
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:15.481,079] <info> app: Sent 18 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:15.571,533] <info> app: RSSI changed, new: -62, channel: 3
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:15.668,518] <info> app: RSSI changed, new: -70, channel: 4
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:15.772,949] <info> app: RSSI changed, new: -73, channel: 24
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:15.794,372] <info> app: Sent 19 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:15.929,870] <info> app: RSSI changed, new: -66, channel: 8
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:16.041,870] <info> app: RSSI changed, new: -75, channel: 27
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:16.092,773] <info> app: Sent 20 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:16.153,320] <info> app: RSSI changed, new: -71, channel: 6
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:16.287,780] <info> app: RSSI changed, new: -74, channel: 16
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:16.391,052] <info> app: RSSI changed, new: -71, channel: 30
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:16.473,083] <info> app: Sent 21 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:16.511,657] <info> app: RSSI changed, new: -79, channel: 29
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:16.608,581] <info> app: RSSI changed, new: -58, channel: 0
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:16.711,914] <info> app: RSSI changed, new: -70, channel: 30
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:16.786,499] <info> app: Sent 22 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:16.817,565] <info> app: RSSI changed, new: -74, channel: 20
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:16.966,430] <info> app: RSSI changed, new: -66, channel: 12
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:17.070,861] <info> app: RSSI changed, new: -74, channel: 22
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:17.084,838] <info> app: Sent 23 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:17.167,846] <info> app: RSSI changed, new: -79, channel: 28
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:17.250,366] <info> app: RSSI changed, new: -73, channel: 27
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:17.390,747] <info> app: Sent 24 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:17.414,306] <info> app: RSSI changed, new: -58, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:17.503,723] <info> app: RSSI changed, new: -73, channel: 23
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:17.615,661] <info> app: RSSI changed, new: -71, channel: 17
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:17.719,055] <info> app: Sent 25 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:17.735,107] <info> app: RSSI changed, new: -74, channel: 16
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:17.847,106] <info> app: RSSI changed, new: -59, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:17.936,584] <info> app: RSSI changed, new: -63, channel: 9
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:18.032,287] <info> app: RSSI changed, new: -74, channel: 20
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:18.106,872] <info> app: Sent 26 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:18.159,912] <info> app: RSSI changed, new: -59, channel: 2
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:18.249,877] <info> app: RSSI changed, new: -72, channel: 6
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:18.338,195] <info> app: RSSI changed, new: -69, channel: 7
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:18.412,780] <info> app: Sent 27 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:18.428,833] <info> app: RSSI changed, new: -71, channel: 30
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:18.548,278] <info> app: RSSI changed, new: -57, channel: 0
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:18.636,596] <info> app: RSSI changed, new: -73, channel: 27
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:18.711,181] <info> app: Sent 28 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:18.719,726] <info> app: RSSI changed, new: -75, channel: 16
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:18.831,665] <info> app: RSSI changed, new: -66, channel: 36
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:18.913,696] <info> app: RSSI changed, new: -76, channel: 14
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:19.016,967] <info> app: RSSI changed, new: -67, channel: 32
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:19.017,150] <info> app: Sent 29 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:19.115,051] <info> app: RSSI changed, new: -71, channel: 22
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:19.234,558] <info> app: RSSI changed, new: -69, channel: 31
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:19.315,429] <info> app: Sent 30 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:19.323,974] <info> app: RSSI changed, new: -75, channel: 16
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:19.405,944] <info> app: RSSI changed, new: -66, channel: 32
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:19.510,437] <info> app: RSSI changed, new: -74, channel: 22
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:19.629,882] <info> app: RSSI changed, new: -59, channel: 2
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:19.695,800] <info> app: Sent 31 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:19.719,360] <info> app: RSSI changed, new: -74, channel: 17
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:19.801,269] <info> app: RSSI changed, new: -61, channel: 3
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:19.883,239] <info> app: RSSI changed, new: -70, channel: 17
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:19.980,163] <info> app: RSSI changed, new: -59, channel: 2
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:20.001,647] <info> app: Sent 32 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:20.084,655] <info> app: RSSI changed, new: -74, channel: 28
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:20.196,594] <info> app: RSSI changed, new: -68, channel: 26
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:20.351,928] <info> app: Sent 33 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:20.360,534] <info> app: RSSI changed, new: -64, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:20.472,473] <info> app: RSSI changed, new: -69, channel: 18
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:20.590,759] <info> app: RSSI changed, new: -61, channel: 3
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:20.680,358] <info> app: Sent 34 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:20.703,918] <info> app: RSSI changed, new: -71, channel: 13
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:20.793,334] <info> app: RSSI changed, new: -68, channel: 36
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:20.897,827] <info> app: RSSI changed, new: -58, channel: 2
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:20.986,206] <info> app: Sent 35 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:20.994,750] <info> app: RSSI changed, new: -71, channel: 28
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:21.084,228] <info> app: RSSI changed, new: -73, channel: 20
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:21.166,137] <info> app: RSSI changed, new: -70, channel: 23
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:21.285,583] <info> app: RSSI changed, new: -67, channel: 32
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:21.373,962] <info> app: Sent 36 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:21.397,583] <info> app: RSSI changed, new: -72, channel: 28
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:21.502,014] <info> app: RSSI changed, new: -66, channel: 34
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:21.598,937] <info> app: RSSI changed, new: -62, channel: 11
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:21.680,908] <info> app: RSSI changed, new: -67, channel: 18
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:21.687,316] <info> app: Sent 37 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:21.800,354] <info> app: RSSI changed, new: -70, channel: 21
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:21.919,799] <info> app: RSSI changed, new: -68, channel: 23
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:22.008,178] <info> app: Sent 38 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:22.083,740] <info> app: RSSI changed, new: -62, channel: 12
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:22.164,489] <info> app: RSSI changed, new: -68, channel: 18
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:22.285,095] <info> app: RSSI changed, new: -62, channel: 11
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:22.314,025] <info> app: Sent 39 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:22.374,572] <info> app: RSSI changed, new: -68, channel: 23
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:22.523,986] <info> app: RSSI changed, new: -62, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:22.612,426] <info> app: Sent 40 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:22.620,971] <info> app: RSSI changed, new: -57, channel: 0
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:22.717,895] <info> app: RSSI changed, new: -66, channel: 32
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:22.822,387] <info> app: RSSI changed, new: -68, channel: 25
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:22.911,865] <info> app: RSSI changed, new: -71, channel: 20
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:23.015,197] <info> app: RSSI changed, new: -85, channel: 28
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:23.015,319] <info> app: Sent 41 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:23.105,773] <info> app: RSSI changed, new: -74, channel: 16
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:23.202,758] <info> app: RSSI changed, new: -72, channel: 21
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:23.299,743] <info> app: RSSI changed, new: -61, channel: 3
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:23.328,674] <info> app: Sent 42 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:23.389,160] <info> app: RSSI changed, new: -64, channel: 11
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:23.484,985] <info> app: RSSI changed, new: -66, channel: 34
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:23.590,637] <info> app: RSSI changed, new: -71, channel: 5
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:23.634,582] <info> app: Sent 43 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:23.725,036] <info> app: RSSI changed, new: -79, channel: 27
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:23.807,067] <info> app: RSSI changed, new: -71, channel: 22
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:23.919,006] <info> app: RSSI changed, new: -76, channel: 17
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:23.940,490] <info> app: Sent 44 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:24.014,831] <info> app: RSSI changed, new: -65, channel: 32
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:24.112,976] <info> app: RSSI changed, new: -63, channel: 11
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:24.232,421] <info> app: RSSI changed, new: -66, channel: 17
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:24.253,356] <info> app: Sent 45 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:24.366,394] <info> app: RSSI changed, new: -63, channel: 6
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:24.478,332] <info> app: RSSI changed, new: -55, channel: 0
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:24.582,763] <info> app: RSSI changed, new: -62, channel: 7
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:24.694,702] <info> app: RSSI changed, new: -70, channel: 23
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:24.708,679] <info> app: Sent 46 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:24.814,147] <info> app: RSSI changed, new: -63, channel: 33
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:24.955,627] <info> app: RSSI changed, new: -61, channel: 9
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:25.022,033] <info> app: Sent 47 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:25.052,551] <info> app: RSSI changed, new: -63, channel: 34
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:25.208,190] <info> app: RSSI changed, new: -65, channel: 33
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:25.321,350] <info> app: RSSI changed, new: -57, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:25.364,746] <info> app: Sent 48 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:25.425,842] <info> app: RSSI changed, new: -76, channel: 29
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:25.514,160] <info> app: RSSI changed, new: -72, channel: 21
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:25.612,304] <info> app: RSSI changed, new: -63, channel: 5
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:25.663,208] <info> app: Sent 49 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:25.701,782] <info> app: RSSI changed, new: -71, channel: 15
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:25.791,259] <info> app: RSSI changed, new: -74, channel: 30
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:25.887,023] <info> app: RSSI changed, new: -67, channel: 35
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:25.969,116] <info> app: Sent 50 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:25.977,661] <info> app: RSSI changed, new: -74, channel: 24
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:26.074,645] <info> app: RSSI changed, new: -71, channel: 14
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:26.200,439] <info> app: RSSI changed, new: -65, channel: 34
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:26.298,583] <info> app: RSSI changed, new: -62, channel: 9
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:26.364,501] <info> app: Sent 51 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:26.403,015] <info> app: RSSI changed, new: -64, channel: 7
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:26.581,909] <info> app: RSSI changed, new: -67, channel: 32
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:26.677,856] <info> app: Sent 52 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:26.693,908] <info> app: RSSI changed, new: -72, channel: 27
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:26.798,339] <info> app: RSSI changed, new: -67, channel: 15
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:26.895,324] <info> app: RSSI changed, new: -70, channel: 33
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:26.976,196] <info> app: Sent 53 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:27.007,263] <info> app: RSSI changed, new: -66, channel: 15
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:27.141,723] <info> app: RSSI changed, new: -81, channel: 28
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:27.223,693] <info> app: RSSI changed, new: -73, channel: 25
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:27.282,104] <info> app: Sent 54 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:27.343,139] <info> app: RSSI changed, new: -84, channel: 16
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:27.447,631] <info> app: RSSI changed, new: -62, channel: 3
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:27.529,602] <info> app: RSSI changed, new: -70, channel: 6
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:27.617,980] <info> app: Sent 55 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:27.678,527] <info> app: RSSI changed, new: -77, channel: 20
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:27.767,944] <info> app: RSSI changed, new: -57, channel: 0
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:27.849,914] <info> app: RSSI changed, new: -71, channel: 18
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:27.976,867] <info> app: RSSI changed, new: -57, channel: 0
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:28.020,812] <info> app: Sent 56 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:28.073,852] <info> app: RSSI changed, new: -71, channel: 36
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:28.169,616] <info> app: RSSI changed, new: -66, channel: 33
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:28.267,761] <info> app: RSSI changed, new: -69, channel: 6
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:28.319,152] <info> app: Sent 57 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:28.387,207] <info> app: RSSI changed, new: -66, channel: 27
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:28.529,174] <info> app: RSSI changed, new: -80, channel: 15
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:28.626,159] <info> app: RSSI changed, new: -83, channel: 15
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:28.654,541] <info> app: Sent 58 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:28.715,637] <info> app: RSSI changed, new: -71, channel: 24
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:28.805,053] <info> app: RSSI changed, new: -73, channel: 19
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:28.894,531] <info> app: RSSI changed, new: -65, channel: 34
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:28.960,449] <info> app: Sent 59 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:29.013,977] <info> app: RSSI changed, new: -61, channel: 3
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:29.095,947] <info> app: RSSI changed, new: -70, channel: 30
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:29.215,393] <info> app: RSSI changed, new: -76, channel: 14
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:29.288,818] <info> app: Sent 60 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:29.312,377] <info> app: RSSI changed, new: -68, channel: 25
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:29.431,823] <info> app: RSSI changed, new: -76, channel: 16
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:29.512,634] <info> app: RSSI changed, new: -66, channel: 34
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:29.594,665] <info> app: Sent 61 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:29.618,225] <info> app: RSSI changed, new: -71, channel: 18
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:29.750,976] <info> app: RSSI changed, new: -67, channel: 31
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:29.871,582] <info> app: RSSI changed, new: -71, channel: 27
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:29.982,482] <info> app: Sent 62 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:29.998,535] <info> app: RSSI changed, new: -77, channel: 15
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:30.102,966] <info> app: RSSI changed, new: -65, channel: 33
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:30.213,806] <info> app: RSSI changed, new: -67, channel: 36
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:30.303,344] <info> app: Sent 63 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:30.319,396] <info> app: RSSI changed, new: -70, channel: 18
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:30.401,367] <info> app: RSSI changed, new: -67, channel: 36
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:30.520,812] <info> app: RSSI changed, new: -81, channel: 29
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:30.601,684] <info> app: Sent 64 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:30.610,229] <info> app: RSSI changed, new: -64, channel: 12
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:30.707,214] <info> app: RSSI changed, new: -58, channel: 2
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:30.789,184] <info> app: RSSI changed, new: -66, channel: 35
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:30.878,662] <info> app: RSSI changed, new: -63, channel: 9
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:30.907,592] <info> app: Sent 65 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:30.960,571] <info> app: RSSI changed, new: -61, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:31.043,090] <info> app: RSSI changed, new: -57, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:31.125,061] <info> app: RSSI changed, new: -74, channel: 20
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:31.205,871] <info> app: RSSI changed, new: -68, channel: 4
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:31.206,054] <info> app: Sent 66 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:31.289,001] <info> app: RSSI changed, new: -61, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:31.378,417] <info> app: RSSI changed, new: -66, channel: 35
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:31.482,910] <info> app: RSSI changed, new: -77, channel: 15
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:31.587,402] <info> app: RSSI changed, new: -69, channel: 25
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:31.593,811] <info> app: Sent 67 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:31.691,833] <info> app: RSSI changed, new: -67, channel: 36
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:31.833,801] <info> app: RSSI changed, new: -82, channel: 29
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:31.915,771] <info> app: RSSI changed, new: -70, channel: 19
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:31.929,748] <info> app: Sent 68 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:32.035,217] <info> app: RSSI changed, new: -68, channel: 31
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:32.132,202] <info> app: RSSI changed, new: -63, channel: 9
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:32.229,187] <info> app: RSSI changed, new: -68, channel: 7
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:32.243,164] <info> app: Sent 69 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:32.325,012] <info> app: RSSI changed, new: -75, channel: 14
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:32.415,649] <info> app: RSSI changed, new: -70, channel: 27
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:32.542,602] <info> app: RSSI changed, new: -63, channel: 9
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:32.556,030] <info> app: Sent 70 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:32.638,427] <info> app: RSSI changed, new: -74, channel: 23
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:32.721,557] <info> app: RSSI changed, new: -78, channel: 22
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:32.803,527] <info> app: RSSI changed, new: -68, channel: 32
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:32.869,445] <info> app: Sent 71 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:32.982,482] <info> app: RSSI changed, new: -71, channel: 27
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:33.086,975] <info> app: RSSI changed, new: -67, channel: 32
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:33.206,359] <info> app: RSSI changed, new: -64, channel: 12
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:33.264,831] <info> app: Sent 72 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:33.318,359] <info> app: RSSI changed, new: -75, channel: 29
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:33.415,344] <info> app: RSSI changed, new: -69, channel: 35
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:33.549,194] <info> app: RSSI changed, new: -75, channel: 27
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:33.593,200] <info> app: Sent 73 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:33.639,221] <info> app: RSSI changed, new: -64, channel: 12
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:33.728,698] <info> app: RSSI changed, new: -68, channel: 4
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:33.825,683] <info> app: RSSI changed, new: -61, channel: 3
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:33.891,418] <info> app: Sent 74 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:33.914,978] <info> app: RSSI changed, new: -72, channel: 21
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:34.026,916] <info> app: RSSI changed, new: -69, channel: 35
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:34.138,854] <info> app: RSSI changed, new: -73, channel: 18
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:34.212,341] <info> app: Sent 75 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:34.243,347] <info> app: RSSI changed, new: -69, channel: 24
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:34.347,290] <info> app: RSSI changed, new: -73, channel: 27
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:34.459,167] <info> app: RSSI changed, new: -65, channel: 9
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:34.510,620] <info> app: Sent 76 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:34.541,687] <info> app: RSSI changed, new: -73, channel: 20
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:34.646,179] <info> app: RSSI changed, new: -68, channel: 13
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:34.795,104] <info> app: RSSI changed, new: -65, channel: 31
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:34.898,498] <info> app: Sent 77 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:34.922,058] <info> app: RSSI changed, new: -78, channel: 16
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:35.004,028] <info> app: RSSI changed, new: -66, channel: 9
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:35.108,276] <info> app: RSSI changed, new: -74, channel: 6
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:35.196,716] <info> app: Sent 78 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:35.205,261] <info> app: RSSI changed, new: -72, channel: 19
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:35.309,692] <info> app: RSSI changed, new: -57, channel: 0
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:35.399,169] <info> app: RSSI changed, new: -75, channel: 6
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:35.517,517] <info> app: Sent 79 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:35.533,569] <info> app: RSSI changed, new: -72, channel: 19
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:35.638,061] <info> app: RSSI changed, new: -67, channel: 13
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:35.764,465] <info> app: RSSI changed, new: -70, channel: 26
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:35.838,439] <info> app: Sent 80 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:35.868,957] <info> app: RSSI changed, new: -77, channel: 18
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:35.987,243] <info> app: RSSI changed, new: -73, channel: 7
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:36.100,341] <info> app: RSSI changed, new: -67, channel: 9
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:36.144,287] <info> app: Sent 81 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:36.182,312] <info> app: RSSI changed, new: -65, channel: 34
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:36.308,105] <info> app: RSSI changed, new: -67, channel: 13
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:36.413,757] <info> app: RSSI changed, new: -72, channel: 29
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:36.540,710] <info> app: RSSI changed, new: -65, channel: 32
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:36.554,138] <info> app: Sent 82 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:36.652,160] <info> app: RSSI changed, new: -72, channel: 6
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:36.801,635] <info> app: RSSI changed, new: -68, channel: 35
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:36.860,046] <info> app: Sent 83 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:36.891,113] <info> app: RSSI changed, new: -66, channel: 9
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:37.016,906] <info> app: RSSI changed, new: -64, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:37.100,036] <info> app: RSSI changed, new: -72, channel: 26
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:37.165,954] <info> app: Sent 84 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:37.182,006] <info> app: RSSI changed, new: -77, channel: 22
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:37.271,484] <info> app: RSSI changed, new: -80, channel: 22
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:37.353,393] <info> app: RSSI changed, new: -70, channel: 8
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:37.450,378] <info> app: RSSI changed, new: -66, channel: 12
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:37.479,309] <info> app: Sent 85 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:37.547,302] <info> app: RSSI changed, new: -72, channel: 26
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:37.628,662] <info> app: RSSI changed, new: -70, channel: 14
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:37.756,225] <info> app: RSSI changed, new: -63, channel: 32
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:37.800,170] <info> app: Sent 86 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:37.875,732] <info> app: RSSI changed, new: -75, channel: 6
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:37.980,163] <info> app: RSSI changed, new: -66, channel: 36
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:38.107,177] <info> app: RSSI changed, new: -58, channel: 2
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:38.196,594] <info> app: RSSI changed, new: -69, channel: 19
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:38.210,510] <info> app: Sent 87 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:38.284,851] <info> app: RSSI changed, new: -71, channel: 18
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:38.413,024] <info> app: RSSI changed, new: -73, channel: 15
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:38.516,418] <info> app: Sent 88 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:38.524,963] <info> app: RSSI changed, new: -70, channel: 26
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:38.636,901] <info> app: RSSI changed, new: -63, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:38.726,379] <info> app: RSSI changed, new: -69, channel: 14
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:38.815,856] <info> app: RSSI changed, new: -75, channel: 17
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:38.829,833] <info> app: Sent 89 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:38.897,827] <info> app: RSSI changed, new: -89, channel: 28
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:38.979,797] <info> app: RSSI changed, new: -70, channel: 25
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:39.114,257] <info> app: RSSI changed, new: -66, channel: 13
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:39.143,188] <info> app: Sent 90 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:39.211,181] <info> app: RSSI changed, new: -69, channel: 25
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:39.308,105] <info> app: RSSI changed, new: -71, channel: 21
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:39.420,104] <info> app: RSSI changed, new: -67, channel: 30
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:39.441,528] <info> app: Sent 91 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:39.569,030] <info> app: RSSI changed, new: -73, channel: 27
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:39.658,447] <info> app: RSSI changed, new: -66, channel: 36
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:39.792,907] <info> app: RSSI changed, new: -63, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:39.814,331] <info> app: Sent 92 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:39.882,385] <info> app: RSSI changed, new: -69, channel: 25
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:39.994,323] <info> app: RSSI changed, new: -72, channel: 6
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:40.106,323] <info> app: RSSI changed, new: -74, channel: 6
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:40.135,253] <info> app: Sent 93 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:40.188,232] <info> app: RSSI changed, new: -66, channel: 34
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:40.285,217] <info> app: RSSI changed, new: -70, channel: 14
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:40.374,633] <info> app: RSSI changed, new: -65, channel: 33
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:40.441,101] <info> app: Sent 94 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:40.479,064] <info> app: RSSI changed, new: -58, channel: 2
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:40.560,913] <info> app: RSSI changed, new: -64, channel: 9
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:40.679,199] <info> app: RSSI changed, new: -57, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:40.753,784] <info> app: Sent 95 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:40.762,329] <info> app: RSSI changed, new: -68, channel: 15
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:40.874,328] <info> app: RSSI changed, new: -61, channel: 11
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:40.956,237] <info> app: RSSI changed, new: -69, channel: 18
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:41.068,237] <info> app: RSSI changed, new: -72, channel: 5
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:41.074,707] <info> app: Sent 96 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:41.156,555] <info> app: RSSI changed, new: -69, channel: 25
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:41.307,006] <info> app: RSSI changed, new: -71, channel: 26
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:41.411,437] <info> app: RSSI changed, new: -65, channel: 33
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:41.507,385] <info> app: Sent 97 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:41.523,437] <info> app: RSSI changed, new: -70, channel: 6
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:41.657,348] <info> app: RSSI changed, new: -62, channel: 12
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:41.746,765] <info> app: RSSI changed, new: -65, channel: 13
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:41.813,232] <info> app: Sent 98 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:41.873,718] <info> app: RSSI changed, new: -73, channel: 29
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:42.000,671] <info> app: RSSI changed, new: -62, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:42.082,641] <info> app: RSSI changed, new: -67, channel: 30
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:42.126,586] <info> app: Sent 99 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:42.217,102] <info> app: RSSI changed, new: -69, channel: 25
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:42.351,013] <info> app: RSSI changed, new: -76, channel: 27
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:42.439,880] <info> app: RSSI changed, new: -68, channel: 8
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:42.440,002] <info> app: Sent 100 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:42.545,471] <info> app: RSSI changed, new: -72, channel: 17
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:42.664,367] <info> app: RSSI changed, new: -65, channel: 33
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:42.760,253] <info> app: Sent 101 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:42.783,874] <info> app: RSSI changed, new: -58, channel: 2
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:42.865,783] <info> app: RSSI changed, new: -56, channel: 0
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:42.955,261] <info> app: RSSI changed, new: -65, channel: 4
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:43.067,199] <info> app: RSSI changed, new: -68, channel: 8
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:43.170,593] <info> app: Sent 102 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:43.224,121] <info> app: RSSI changed, new: -70, channel: 5
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:43.350,524] <info> app: RSSI changed, new: -63, channel: 11
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:43.462,463] <info> app: RSSI changed, new: -71, channel: 18
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:43.498,901] <info> app: Sent 103 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:43.559,448] <info> app: RSSI changed, new: -74, channel: 21
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:43.641,967] <info> app: RSSI changed, new: -66, channel: 35
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:43.783,386] <info> app: RSSI changed, new: -57, channel: 0
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:43.812,316] <info> app: Sent 104 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:43.880,310] <info> app: RSSI changed, new: -66, channel: 33
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:43.984,741] <info> app: RSSI changed, new: -71, channel: 29
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:44.096,740] <info> app: RSSI changed, new: -58, channel: 2
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:44.118,164] <info> app: Sent 105 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:44.186,157] <info> app: RSSI changed, new: -65, channel: 31
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:44.335,510] <info> app: RSSI changed, new: -71, channel: 22
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:44.416,381] <info> app: Sent 106 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:44.432,434] <info> app: RSSI changed, new: -66, channel: 33
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:44.566,284] <info> app: RSSI changed, new: -64, channel: 31
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:44.678,222] <info> app: RSSI changed, new: -60, channel: 3
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:44.767,700] <info> app: RSSI changed, new: -58, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:44.796,630] <info> app: Sent 107 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:44.872,131] <info> app: RSSI changed, new: -68, channel: 25
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:44.976,623] <info> app: RSSI changed, new: -65, channel: 34
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:45.088,562] <info> app: RSSI changed, new: -67, channel: 30
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:45.125,000] <info> app: Sent 108 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:45.177,978] <info> app: RSSI changed, new: -69, channel: 24
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:45.273,803] <info> app: RSSI changed, new: -67, channel: 35
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:45.371,948] <info> app: RSSI changed, new: -64, channel: 11
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:45.423,400] <info> app: Sent 109 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:45.461,364] <info> app: RSSI changed, new: -58, channel: 2
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:45.573,303] <info> app: RSSI changed, new: -65, channel: 12
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:45.692,810] <info> app: RSSI changed, new: -58, channel: 2
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:45.736,755] <info> app: Sent 110 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:45.774,719] <info> app: RSSI changed, new: -68, channel: 24
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:45.909,179] <info> app: RSSI changed, new: -64, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:45.998,657] <info> app: RSSI changed, new: -58, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:46.042,602] <info> app: Sent 111 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:46.080,566] <info> app: RSSI changed, new: -70, channel: 20
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:46.185,058] <info> app: RSSI changed, new: -57, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:46.265,869] <info> app: RSSI changed, new: -73, channel: 27
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:46.386,474] <info> app: RSSI changed, new: -71, channel: 15
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:46.430,419] <info> app: Sent 112 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:46.512,329] <info> app: RSSI changed, new: -65, channel: 32
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:46.654,907] <info> app: RSSI changed, new: -70, channel: 20
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:46.736,328] <info> app: Sent 113 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:46.751,831] <info> app: RSSI changed, new: -72, channel: 5
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:46.863,769] <info> app: RSSI changed, new: -64, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:46.953,247] <info> app: RSSI changed, new: -69, channel: 19
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:47.042,175] <info> app: Sent 114 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:47.065,246] <info> app: RSSI changed, new: -58, channel: 2
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:47.154,663] <info> app: RSSI changed, new: -64, channel: 11
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:47.265,441] <info> app: RSSI changed, new: -72, channel: 21
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:47.340,576] <info> app: Sent 115 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:47.356,079] <info> app: RSSI changed, new: -61, channel: 3
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:47.438,598] <info> app: RSSI changed, new: -74, channel: 16
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:47.528,015] <info> app: RSSI changed, new: -76, channel: 17
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:47.625,061] <info> app: RSSI changed, new: -66, channel: 36
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:47.653,442] <info> app: Sent 116 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:47.721,984] <info> app: RSSI changed, new: -74, channel: 5
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:47.811,462] <info> app: RSSI changed, new: -65, channel: 12
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:47.960,388] <info> app: RSSI changed, new: -72, channel: 15
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:48.034,301] <info> app: Sent 117 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:48.079,833] <info> app: RSSI changed, new: -66, channel: 35
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:48.199,279] <info> app: RSSI changed, new: -73, channel: 7
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:48.303,771] <info> app: RSSI changed, new: -66, channel: 4
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:48.340,209] <info> app: Sent 118 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:48.430,725] <info> app: RSSI changed, new: -63, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:48.527,648] <info> app: RSSI changed, new: -70, channel: 19
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:48.617,126] <info> app: RSSI changed, new: -72, channel: 29
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:48.668,029] <info> app: Sent 119 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:48.736,633] <info> app: RSSI changed, new: -66, channel: 36
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:48.841,064] <info> app: RSSI changed, new: -72, channel: 21
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:48.973,937] <info> app: Sent 120 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:49.049,438] <info> app: RSSI changed, new: -65, channel: 31
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:49.176,330] <info> app: RSSI changed, new: -70, channel: 19
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:49.273,315] <info> app: RSSI changed, new: -72, channel: 18
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:49.294,738] <info> app: Sent 121 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:49.385,253] <info> app: RSSI changed, new: -64, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:49.512,268] <info> app: RSSI changed, new: -72, channel: 15
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:49.600,646] <info> app: Sent 122 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:49.661,193] <info> app: RSSI changed, new: -70, channel: 19
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:49.810,607] <info> app: RSSI changed, new: -62, channel: 3
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:49.892,578] <info> app: RSSI changed, new: -58, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:49.989,562] <info> app: RSSI changed, new: -61, channel: 3
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:50.018,493] <info> app: Sent 123 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:50.078,979] <info> app: RSSI changed, new: -73, channel: 22
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:50.190,979] <info> app: RSSI changed, new: -61, channel: 3
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:50.280,456] <info> app: RSSI changed, new: -73, channel: 26
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:50.331,909] <info> app: Sent 124 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:50.369,873] <info> app: RSSI changed, new: -70, channel: 25
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:50.489,318] <info> app: RSSI changed, new: -72, channel: 29
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:50.593,811] <info> app: RSSI changed, new: -57, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:50.644,775] <info> app: Sent 125 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:50.683,288] <info> app: RSSI changed, new: -63, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:50.787,780] <info> app: RSSI changed, new: -68, channel: 25
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:50.868,591] <info> app: RSSI changed, new: -70, channel: 20
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:50.943,664] <info> app: Sent 126 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:50.989,196] <info> app: RSSI changed, new: -68, channel: 24
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:51.099,975] <info> app: RSSI changed, new: -65, channel: 31
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:51.213,073] <info> app: RSSI changed, new: -70, channel: 15
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:51.256,530] <info> app: Sent 127 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:51.317,565] <info> app: RSSI changed, new: -58, channel: 2
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:51.421,997] <info> app: RSSI changed, new: -75, channel: 17
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:51.511,535] <info> app: RSSI changed, new: -68, channel: 24
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:51.623,474] <info> app: RSSI changed, new: -66, channel: 13
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:51.644,348] <info> app: Sent 128 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:51.764,892] <info> app: RSSI changed, new: -59, channel: 2
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:51.846,862] <info> app: RSSI changed, new: -73, channel: 16
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:51.936,828] <info> app: RSSI changed, new: -66, channel: 13
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:51.943,298] <info> app: Sent 129 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:52.070,739] <info> app: RSSI changed, new: -57, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:52.152,709] <info> app: RSSI changed, new: -72, channel: 29
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:52.249,633] <info> app: RSSI changed, new: -67, channel: 4
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:52.263,549] <info> app: Sent 130 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:52.338,500] <info> app: RSSI changed, new: -70, channel: 20
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:52.443,542] <info> app: RSSI changed, new: -63, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:52.562,927] <info> app: RSSI changed, new: -71, channel: 21
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:52.576,843] <info> app: Sent 131 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:52.689,880] <info> app: RSSI changed, new: -69, channel: 8
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:52.816,833] <info> app: RSSI changed, new: -74, channel: 17
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:52.906,311] <info> app: RSSI changed, new: -71, channel: 7
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:52.912,780] <info> app: Sent 132 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:53.003,295] <info> app: RSSI changed, new: -69, channel: 29
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:53.107,727] <info> app: RSSI changed, new: -72, channel: 22
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:53.279,174] <info> app: RSSI changed, new: -58, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:53.315,612] <info> app: Sent 133 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:53.376,098] <info> app: RSSI changed, new: -63, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:53.458,068] <info> app: RSSI changed, new: -70, channel: 25
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:53.570,007] <info> app: RSSI changed, new: -73, channel: 21
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:53.643,432] <info> app: Sent 134 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:53.704,467] <info> app: RSSI changed, new: -65, channel: 31
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:53.845,886] <info> app: RSSI changed, new: -76, channel: 17
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:53.950,317] <info> app: RSSI changed, new: -61, channel: 3
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:53.964,233] <info> app: Sent 135 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:54.032,836] <info> app: RSSI changed, new: -66, channel: 36
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:54.129,760] <info> app: RSSI changed, new: -71, channel: 15
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:54.263,671] <info> app: RSSI changed, new: -65, channel: 31
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:54.270,080] <info> app: Sent 136 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:54.390,625] <info> app: RSSI changed, new: -61, channel: 3
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:54.480,102] <info> app: RSSI changed, new: -71, channel: 23
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:54.577,026] <info> app: RSSI changed, new: -64, channel: 12
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:54.598,510] <info> app: Sent 137 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:54.666,503] <info> app: RSSI changed, new: -70, channel: 25
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:54.815,979] <info> app: RSSI changed, new: -81, channel: 27
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:54.905,456] <info> app: RSSI changed, new: -71, channel: 6
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:54.993,835] <info> app: Sent 138 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:55.032,409] <info> app: RSSI changed, new: -67, channel: 35
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:55.143,798] <info> app: RSSI changed, new: -65, channel: 31
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:55.248,291] <info> app: RSSI changed, new: -70, channel: 18
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:55.307,189] <info> app: Sent 139 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:55.375,183] <info> app: RSSI changed, new: -57, channel: 0
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:55.457,153] <info> app: RSSI changed, new: -69, channel: 25
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:55.576,599] <info> app: RSSI changed, new: -71, channel: 7
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:55.620,544] <info> app: Sent 140 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:55.666,076] <info> app: RSSI changed, new: -80, channel: 28
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:55.755,493] <info> app: RSSI changed, new: -68, channel: 4
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:55.852,478] <info> app: RSSI changed, new: -66, channel: 35
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:55.918,884] <info> app: Sent 141 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:55.964,416] <info> app: RSSI changed, new: -73, channel: 27
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:56.053,833] <info> app: RSSI changed, new: -64, channel: 32
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:56.142,700] <info> app: RSSI changed, new: -73, channel: 27
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:56.217,224] <info> app: Sent 142 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:56.240,844] <info> app: RSSI changed, new: -66, channel: 9
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:56.367,187] <info> app: RSSI changed, new: -64, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:56.464,172] <info> app: RSSI changed, new: -72, channel: 7
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:56.568,603] <info> app: RSSI changed, new: -70, channel: 25
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:56.597,534] <info> app: Sent 143 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:56.703,063] <info> app: RSSI changed, new: -68, channel: 14
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:56.815,063] <info> app: RSSI changed, new: -64, channel: 12
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:56.910,949] <info> app: Sent 144 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:56.934,509] <info> app: RSSI changed, new: -73, channel: 5
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:57.045,898] <info> app: RSSI changed, new: -64, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:57.142,761] <info> app: RSSI changed, new: -57, channel: 0
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:57.225,280] <info> app: RSSI changed, new: -71, channel: 7
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:57.231,689] <info> app: Sent 145 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:57.344,177] <info> app: RSSI changed, new: -63, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:57.426,635] <info> app: RSSI changed, new: -71, channel: 15
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:57.537,597] <info> app: Sent 146 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:57.605,590] <info> app: RSSI changed, new: -68, channel: 14
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:57.717,590] <info> app: RSSI changed, new: -61, channel: 3
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:57.799,560] <info> app: RSSI changed, new: -57, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:57.850,463] <info> app: Sent 147 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:57.881,530] <info> app: RSSI changed, new: -64, channel: 12
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:58.015,930] <info> app: RSSI changed, new: -80, channel: 28
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:58.096,740] <info> app: RSSI changed, new: -71, channel: 16
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:58.239,868] <info> app: RSSI changed, new: -73, channel: 22
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:58.260,803] <info> app: Sent 148 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:58.336,853] <info> app: RSSI changed, new: -65, channel: 9
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:58.463,073] <info> app: RSSI changed, new: -71, channel: 20
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:58.566,467] <info> app: Sent 149 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:58.635,009] <info> app: RSSI changed, new: -65, channel: 31
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:58.776,428] <info> app: RSSI changed, new: -71, channel: 6
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:58.879,821] <info> app: Sent 150 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:58.940,856] <info> app: RSSI changed, new: -69, channel: 19
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:59.030,334] <info> app: RSSI changed, new: -73, channel: 17
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:59.171,691] <info> app: RSSI changed, new: -65, channel: 33
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:59.208,129] <info> app: Sent 151 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:59.350,585] <info> app: RSSI changed, new: -71, channel: 21
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:59.470,092] <info> app: RSSI changed, new: -65, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:59.529,052] <info> app: Sent 152 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:59.567,016] <info> app: RSSI changed, new: -57, channel: 0
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:59.679,016] <info> app: RSSI changed, new: -82, channel: 28
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:59.767,272] <info> app: RSSI changed, new: -73, channel: 7
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:59.857,910] <info> app: RSSI changed, new: -71, channel: 21
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:59.916,809] <info> app: Sent 153 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:04:59.962,341] <info> app: RSSI changed, new: -66, channel: 36
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:00.059,265] <info> app: RSSI changed, new: -56, channel: 0
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:00.148,742] <info> app: RSSI changed, new: -66, channel: 36
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:00.252,136] <info> app: Sent 154 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:00.298,217] <info> app: RSSI changed, new: -73, channel: 5
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:00.410,156] <info> app: RSSI changed, new: -66, channel: 4
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:00.565,490] <info> app: Sent 155 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:00.581,542] <info> app: RSSI changed, new: -72, channel: 29
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:00.708,496] <info> app: RSSI changed, new: -69, channel: 24
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:00.812,927] <info> app: RSSI changed, new: -66, channel: 34
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:00.878,845] <info> app: Sent 156 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:00.939,880] <info> app: RSSI changed, new: -70, channel: 19
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:01.051,269] <info> app: RSSI changed, new: -73, channel: 15
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:01.193,298] <info> app: RSSI changed, new: -67, channel: 4
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:01.207,214] <info> app: Sent 157 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:01.297,729] <info> app: RSSI changed, new: -64, channel: 32
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:01.394,653] <info> app: RSSI changed, new: -72, channel: 7
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:01.514,160] <info> app: RSSI changed, new: -64, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:01.580,078] <info> app: Sent 158 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:01.603,637] <info> app: RSSI changed, new: -66, channel: 34
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:01.700,561] <info> app: RSSI changed, new: -57, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:01.790,039] <info> app: RSSI changed, new: -65, channel: 13
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:01.900,878] <info> app: Sent 159 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:01.924,499] <info> app: RSSI changed, new: -70, channel: 23
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:02.043,334] <info> app: RSSI changed, new: -68, channel: 8
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:02.139,709] <info> app: RSSI changed, new: -70, channel: 29
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:02.214,294] <info> app: Sent 160 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:02.282,348] <info> app: RSSI changed, new: -65, channel: 9
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:02.461,181] <info> app: RSSI changed, new: -67, channel: 30
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:02.549,560] <info> app: Sent 161 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:02.558,105] <info> app: RSSI changed, new: -65, channel: 32
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:02.722,595] <info> app: RSSI changed, new: -72, channel: 21
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:02.841,552] <info> app: RSSI changed, new: -67, channel: 30
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:02.877,929] <info> app: Sent 162 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:02.939,025] <info> app: RSSI changed, new: -70, channel: 25
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:03.080,383] <info> app: RSSI changed, new: -73, channel: 7
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:03.229,858] <info> app: RSSI changed, new: -70, channel: 23
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:03.295,776] <info> app: Sent 163 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:03.319,335] <info> app: RSSI changed, new: -61, channel: 3
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:03.401,306] <info> app: RSSI changed, new: -59, channel: 2
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:03.490,783] <info> app: RSSI changed, new: -64, channel: 31
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:03.580,200] <info> app: RSSI changed, new: -74, channel: 21
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:03.601,684] <info> app: Sent 164 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:03.692,138] <info> app: RSSI changed, new: -66, channel: 30
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:03.804,138] <info> app: RSSI changed, new: -73, channel: 5
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:03.900,024] <info> app: Sent 165 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:03.931,091] <info> app: RSSI changed, new: -71, channel: 18
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:04.042,480] <info> app: RSSI changed, new: -66, channel: 34
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:04.154,479] <info> app: RSSI changed, new: -68, channel: 25
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:04.205,871] <info> app: Sent 166 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:04.243,896] <info> app: RSSI changed, new: -65, channel: 36
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:04.362,182] <info> app: RSSI changed, new: -57, channel: 0
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:04.452,819] <info> app: RSSI changed, new: -64, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:04.519,226] <info> app: Sent 167 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:04.594,726] <info> app: RSSI changed, new: -68, channel: 24
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:04.736,694] <info> app: RSSI changed, new: -65, channel: 31
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:04.878,173] <info> app: RSSI changed, new: -73, channel: 5
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:04.929,565] <info> app: Sent 168 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:04.975,097] <info> app: RSSI changed, new: -71, channel: 15
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:05.094,543] <info> app: RSSI changed, new: -66, channel: 35
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:05.213,989] <info> app: RSSI changed, new: -64, channel: 31
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:05.257,446] <info> app: Sent 169 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:05.311,035] <info> app: RSSI changed, new: -58, channel: 0
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:05.400,451] <info> app: RSSI changed, new: -72, channel: 7
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:05.488,769] <info> app: RSSI changed, new: -66, channel: 35
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:05.563,354] <info> app: Sent 170 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:05.601,867] <info> app: RSSI changed, new: -74, channel: 6
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:05.713,806] <info> app: RSSI changed, new: -70, channel: 19
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:05.847,717] <info> app: RSSI changed, new: -62, channel: 3
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:05.899,169] <info> app: Sent 171 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:05.930,236] <info> app: RSSI changed, new: -67, channel: 9
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:06.027,221] <info> app: RSSI changed, new: -71, channel: 29
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:06.123,046] <info> app: RSSI changed, new: -61, channel: 3
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:06.205,139] <info> app: Sent 172 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:06.213,684] <info> app: RSSI changed, new: -74, channel: 5
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:06.325,622] <info> app: RSSI changed, new: -64, channel: 32
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:06.450,927] <info> app: RSSI changed, new: -73, channel: 18
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:06.541,503] <info> app: RSSI changed, new: -70, channel: 21
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:06.600,463] <info> app: Sent 173 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:06.631,530] <info> app: RSSI changed, new: -73, channel: 18
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:06.721,008] <info> app: RSSI changed, new: -58, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:06.817,932] <info> app: RSSI changed, new: -71, channel: 29
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:06.921,325] <info> app: Sent 174 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:06.929,870] <info> app: RSSI changed, new: -74, channel: 27
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:07.011,840] <info> app: RSSI changed, new: -65, channel: 12
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:07.116,333] <info> app: RSSI changed, new: -73, channel: 18
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:07.220,764] <info> app: RSSI changed, new: -58, channel: 0
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:07.227,172] <info> app: Sent 175 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:07.309,082] <info> app: RSSI changed, new: -73, channel: 21
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:07.407,165] <info> app: RSSI changed, new: -71, channel: 15
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:07.540,588] <info> app: Sent 176 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:07.548,645] <info> app: RSSI changed, new: -75, channel: 5
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:07.638,610] <info> app: RSSI changed, new: -70, channel: 14
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:07.763,916] <info> app: RSSI changed, new: -60, channel: 2
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:07.838,989] <info> app: Sent 177 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:07.861,999] <info> app: RSSI changed, new: -73, channel: 22
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:07.958,984] <info> app: RSSI changed, new: -65, channel: 34
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:08.093,383] <info> app: RSSI changed, new: -70, channel: 20
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:08.220,397] <info> app: RSSI changed, new: -81, channel: 28
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:08.234,313] <info> app: Sent 178 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:08.302,368] <info> app: RSSI changed, new: -69, channel: 24
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:08.414,306] <info> app: RSSI changed, new: -78, channel: 28
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:08.496,276] <info> app: RSSI changed, new: -64, channel: 9
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:08.532,714] <info> app: Sent 179 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:08.593,200] <info> app: RSSI changed, new: -70, channel: 23
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:08.705,139] <info> app: RSSI changed, new: -73, channel: 6
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:08.845,520] <info> app: Sent 180 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:08.876,586] <info> app: RSSI changed, new: -76, channel: 5
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:08.973,571] <info> app: RSSI changed, new: -74, channel: 18
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:09.070,373] <info> app: RSSI changed, new: -67, channel: 13
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:09.151,245] <info> app: Sent 181 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:09.197,326] <info> app: RSSI changed, new: -71, channel: 23
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:09.286,743] <info> app: RSSI changed, new: -73, channel: 21
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:09.391,235] <info> app: RSSI changed, new: -66, channel: 13
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:09.449,645] <info> app: Sent 182 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:09.488,220] <info> app: RSSI changed, new: -57, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:09.577,636] <info> app: RSSI changed, new: -69, channel: 14
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:09.688,476] <info> app: RSSI changed, new: -65, channel: 31
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:09.763,061] <info> app: Sent 183 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:09.801,574] <info> app: RSSI changed, new: -70, channel: 14
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:09.906,066] <info> app: RSSI changed, new: -66, channel: 30
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:09.994,323] <info> app: RSSI changed, new: -71, channel: 20
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:10.092,468] <info> app: RSSI changed, new: -64, channel: 9
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:10.143,371] <info> app: Sent 184 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:10.219,482] <info> app: RSSI changed, new: -57, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:10.300,231] <info> app: RSSI changed, new: -65, channel: 33
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:10.405,883] <info> app: RSSI changed, new: -68, channel: 25
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:10.449,340] <info> app: Sent 185 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:10.502,868] <info> app: RSSI changed, new: -64, channel: 36
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:10.659,301] <info> app: RSSI changed, new: -66, channel: 35
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:10.762,634] <info> app: Sent 186 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:10.831,237] <info> app: RSSI changed, new: -64, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:10.919,494] <info> app: RSSI changed, new: -70, channel: 27
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:11.025,146] <info> app: RSSI changed, new: -81, channel: 17
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:11.083,557] <info> app: Sent 187 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:11.122,131] <info> app: RSSI changed, new: -70, channel: 8
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:11.211,608] <info> app: RSSI changed, new: -62, channel: 3
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:11.293,518] <info> app: RSSI changed, new: -72, channel: 29
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:11.382,934] <info> app: RSSI changed, new: -62, channel: 3
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:11.389,404] <info> app: Sent 188 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:11.463,745] <info> app: RSSI changed, new: -74, channel: 16
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:11.569,335] <info> app: RSSI changed, new: -69, channel: 20
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:11.718,811] <info> app: RSSI changed, new: -74, channel: 16
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:11.784,667] <info> app: Sent 189 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:11.823,242] <info> app: RSSI changed, new: -68, channel: 13
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:11.912,658] <info> app: RSSI changed, new: -64, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:12.061,645] <info> app: RSSI changed, new: -76, channel: 28
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:12.113,037] <info> app: Sent 190 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:12.166,076] <info> app: RSSI changed, new: -65, channel: 35
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:12.300,537] <info> app: RSSI changed, new: -69, channel: 20
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:12.427,490] <info> app: RSSI changed, new: -63, channel: 32
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:12.440,917] <info> app: Sent 191 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:12.531,982] <info> app: RSSI changed, new: -65, channel: 35
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:12.621,459] <info> app: RSSI changed, new: -70, channel: 22
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:12.739,440] <info> app: Sent 192 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:12.747,924] <info> app: RSSI changed, new: -65, channel: 9
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:12.896,240] <info> app: RSSI changed, new: -70, channel: 16
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:13.009,338] <info> app: RSSI changed, new: -68, channel: 4
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:13.060,241] <info> app: Sent 193 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:13.142,150] <info> app: RSSI changed, new: -66, channel: 9
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:13.240,295] <info> app: RSSI changed, new: -64, channel: 11
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:13.352,233] <info> app: RSSI changed, new: -68, channel: 19
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:13.440,612] <info> app: Sent 194 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:13.449,157] <info> app: RSSI changed, new: -65, channel: 36
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:13.561,096] <info> app: RSSI changed, new: -58, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:13.650,573] <info> app: RSSI changed, new: -70, channel: 8
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:13.739,990] <info> app: RSSI changed, new: -64, channel: 11
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:13.761,474] <info> app: Sent 195 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:13.881,958] <info> app: RSSI changed, new: -67, channel: 13
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:14.001,403] <info> app: RSSI changed, new: -65, channel: 35
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:14.082,336] <info> app: Sent 196 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:14.165,344] <info> app: RSSI changed, new: -58, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:14.254,821] <info> app: RSSI changed, new: -78, channel: 17
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:14.351,745] <info> app: RSSI changed, new: -65, channel: 35
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:14.380,676] <info> app: Sent 197 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:14.448,669] <info> app: RSSI changed, new: -67, channel: 13
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:14.537,536] <info> app: RSSI changed, new: -64, channel: 11
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:14.680,114] <info> app: RSSI changed, new: -74, channel: 29
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:14.701,599] <info> app: Sent 198 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:14.777,099] <info> app: RSSI changed, new: -64, channel: 33
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:14.911,499] <info> app: RSSI changed, new: -71, channel: 4
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:15.045,410] <info> app: RSSI changed, new: -65, channel: 35
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:15.089,355] <info> app: Sent 199 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:15.142,395] <info> app: RSSI changed, new: -58, channel: 0
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:15.246,826] <info> app: RSSI changed, new: -72, channel: 15
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:15.336,853] <info> app: RSSI changed, new: -75, channel: 6
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:15.417,785] <info> app: Sent 200 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:15.440,795] <info> app: RSSI changed, new: -70, channel: 8
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:15.552,734] <info> app: RSSI changed, new: -64, channel: 33
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:15.694,702] <info> app: RSSI changed, new: -71, channel: 22
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:15.753,112] <info> app: Sent 201 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:15.806,701] <info> app: RSSI changed, new: -66, channel: 25
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:15.963,073] <info> app: RSSI changed, new: -69, channel: 21
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:16.067,565] <info> app: RSSI changed, new: -58, channel: 0
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:16.073,974] <info> app: Sent 202 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:16.155,822] <info> app: RSSI changed, new: -66, channel: 13
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:16.261,413] <info> app: RSSI changed, new: -68, channel: 23
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:16.365,905] <info> app: RSSI changed, new: -65, channel: 34
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:16.387,329] <info> app: Sent 203 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:16.507,812] <info> app: RSSI changed, new: -71, channel: 22
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:16.634,826] <info> app: RSSI changed, new: -69, channel: 20
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:16.716,796] <info> app: RSSI changed, new: -57, channel: 0
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:16.790,161] <info> app: Sent 204 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:16.821,228] <info> app: RSSI changed, new: -65, channel: 33
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:16.992,675] <info> app: RSSI changed, new: -73, channel: 16
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:17.088,439] <info> app: RSSI changed, new: -65, channel: 33
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:17.088,623] <info> app: Sent 205 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:17.194,030] <info> app: RSSI changed, new: -62, channel: 3
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:17.283,508] <info> app: RSSI changed, new: -65, channel: 34
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:17.386,901] <info> app: Sent 206 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:17.410,461] <info> app: RSSI changed, new: -58, channel: 0
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:17.492,431] <info> app: RSSI changed, new: -76, channel: 18
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:17.589,416] <info> app: RSSI changed, new: -72, channel: 19
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:17.707,763] <info> app: Sent 207 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:17.745,788] <info> app: RSSI changed, new: -76, channel: 16
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:17.835,754] <info> app: RSSI changed, new: -74, channel: 6
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:17.939,697] <info> app: RSSI changed, new: -69, channel: 4
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:18.021,118] <info> app: Sent 208 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:18.059,143] <info> app: RSSI changed, new: -67, channel: 30
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:18.171,081] <info> app: RSSI changed, new: -65, channel: 33
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:18.268,066] <info> app: RSSI changed, new: -74, channel: 29
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:18.357,482] <info> app: RSSI changed, new: -67, channel: 24
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:18.408,935] <info> app: Sent 209 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:18.469,421] <info> app: RSSI changed, new: -64, channel: 11
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:18.573,913] <info> app: RSSI changed, new: -58, channel: 0
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:18.663,330] <info> app: RSSI changed, new: -71, channel: 15
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:18.707,275] <info> app: Sent 210 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:18.745,300] <info> app: RSSI changed, new: -65, channel: 34
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:18.887,268] <info> app: RSSI changed, new: -75, channel: 5
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:18.969,177] <info> app: RSSI changed, new: -68, channel: 23
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:19.005,615] <info> app: Sent 211 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:19.111,145] <info> app: RSSI changed, new: -65, channel: 12
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:19.230,590] <info> app: RSSI changed, new: -68, channel: 30
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:19.319,030] <info> app: Sent 212 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:19.327,575] <info> app: RSSI changed, new: -65, channel: 12
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:19.432,006] <info> app: RSSI changed, new: -73, channel: 18
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:19.521,545] <info> app: RSSI changed, new: -65, channel: 33
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:19.624,816] <info> app: RSSI changed, new: -68, channel: 25
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:19.625,000] <info> app: Sent 213 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:19.752,380] <info> app: RSSI changed, new: -70, channel: 19
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:19.871,826] <info> app: RSSI changed, new: -65, channel: 31
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:20.006,347] <info> app: RSSI changed, new: -78, channel: 28
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:20.027,770] <info> app: Sent 214 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:20.088,256] <info> app: RSSI changed, new: -70, channel: 19
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:20.176,574] <info> app: RSSI changed, new: -62, channel: 3
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:20.267,211] <info> app: RSSI changed, new: -68, channel: 26
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:20.333,679] <info> app: Sent 215 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:20.371,643] <info> app: RSSI changed, new: -70, channel: 20
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:20.506,103] <info> app: RSSI changed, new: -64, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:20.588,073] <info> app: RSSI changed, new: -66, channel: 36
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:20.653,991] <info> app: Sent 216 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:20.692,565] <info> app: RSSI changed, new: -68, channel: 13
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:20.782,043] <info> app: RSSI changed, new: -66, channel: 25
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:20.931,457] <info> app: RSSI changed, new: -70, channel: 21
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:20.959,899] <info> app: Sent 217 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:21.020,935] <info> app: RSSI changed, new: -59, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:21.116,760] <info> app: RSSI changed, new: -67, channel: 30
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:21.237,365] <info> app: RSSI changed, new: -72, channel: 7
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:21.273,315] <info> app: Sent 218 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:21.356,384] <info> app: RSSI changed, new: -75, channel: 16
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:21.452,148] <info> app: RSSI changed, new: -67, channel: 25
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:21.580,261] <info> app: RSSI changed, new: -71, channel: 19
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:21.669,677] <info> app: RSSI changed, new: -76, channel: 16
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:21.683,654] <info> app: Sent 219 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:21.773,010] <info> app: RSSI changed, new: -66, channel: 24
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:21.908,569] <info> app: RSSI changed, new: -75, channel: 18
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:21.997,009] <info> app: Sent 220 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:22.005,554] <info> app: RSSI changed, new: -64, channel: 33
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:22.102,478] <info> app: RSSI changed, new: -73, channel: 29
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:22.206,970] <info> app: RSSI changed, new: -68, channel: 30
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:22.303,894] <info> app: RSSI changed, new: -63, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:22.310,363] <info> app: Sent 221 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:22.384,704] <info> app: RSSI changed, new: -71, channel: 15
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:22.505,310] <info> app: RSSI changed, new: -74, channel: 16
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:22.587,280] <info> app: RSSI changed, new: -71, channel: 22
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:22.608,703] <info> app: Sent 222 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:22.683,044] <info> app: RSSI changed, new: -64, channel: 32
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:22.781,188] <info> app: RSSI changed, new: -67, channel: 26
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:22.878,173] <info> app: RSSI changed, new: -65, channel: 11
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:22.907,104] <info> app: Sent 223 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:22.997,558] <info> app: RSSI changed, new: -69, channel: 30
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:23.102,050] <info> app: RSSI changed, new: -66, channel: 12
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:23.221,557] <info> app: RSSI changed, new: -68, channel: 24
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:23.309,814] <info> app: RSSI changed, new: -76, channel: 18
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:23.309,997] <info> app: Sent 224 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:23.407,958] <info> app: RSSI changed, new: -65, channel: 9
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:23.512,390] <info> app: RSSI changed, new: -70, channel: 7
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:23.601,867] <info> app: RSSI changed, new: -65, channel: 32
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:23.608,276] <info> app: Sent 225 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:23.728,820] <info> app: RSSI changed, new: -67, channel: 13
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:23.833,312] <info> app: RSSI changed, new: -76, channel: 28
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:23.921,691] <info> app: Sent 226 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:23.930,236] <info> app: RSSI changed, new: -58, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:24.027,221] <info> app: RSSI changed, new: -65, channel: 31
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:24.153,625] <info> app: RSSI changed, new: -76, channel: 16
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:24.250,610] <info> app: RSSI changed, new: -68, channel: 23
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:24.257,019] <info> app: Sent 227 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:24.347,534] <info> app: RSSI changed, new: -62, channel: 3
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:24.466,979] <info> app: RSSI changed, new: -65, channel: 33
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:24.592,834] <info> app: RSSI changed, new: -57, channel: 0
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:24.592,956] <info> app: Sent 228 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:24.683,410] <info> app: RSSI changed, new: -59, channel: 2
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:24.787,902] <info> app: RSSI changed, new: -66, channel: 25
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:24.929,870] <info> app: RSSI changed, new: -63, channel: 33
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:24.980,712] <info> app: Sent 229 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:25.034,240] <info> app: RSSI changed, new: -71, channel: 19
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:25.145,629] <info> app: RSSI changed, new: -63, channel: 3
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:25.242,614] <info> app: RSSI changed, new: -78, channel: 16
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:25.294,067] <info> app: Sent 230 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:25.325,134] <info> app: RSSI changed, new: -58, channel: 0
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:25.422,058] <info> app: RSSI changed, new: -76, channel: 18
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:25.511,535] <info> app: RSSI changed, new: -71, channel: 21
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:25.599,914] <info> app: Sent 231 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:25.630,981] <info> app: RSSI changed, new: -67, channel: 13
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:25.756,286] <info> app: RSSI changed, new: -71, channel: 16
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:25.854,370] <info> app: RSSI changed, new: -73, channel: 7
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:25.920,837] <info> app: Sent 232 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:25.951,354] <info> app: RSSI changed, new: -71, channel: 23
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:26.040,771] <info> app: RSSI changed, new: -76, channel: 20
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:26.137,756] <info> app: RSSI changed, new: -69, channel: 8
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:26.234,191] <info> app: Sent 233 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:26.257,263] <info> app: RSSI changed, new: -65, channel: 36
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:26.383,056] <info> app: RSSI changed, new: -71, channel: 27
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:26.496,154] <info> app: RSSI changed, new: -63, channel: 3
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:26.585,632] <info> app: RSSI changed, new: -69, channel: 26
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:26.622,070] <info> app: Sent 234 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:26.675,048] <info> app: RSSI changed, new: -81, channel: 15
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:26.772,033] <info> app: RSSI changed, new: -66, channel: 34
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:26.898,986] <info> app: RSSI changed, new: -69, channel: 4
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:26.949,890] <info> app: Sent 235 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:26.995,971] <info> app: RSSI changed, new: -67, channel: 12
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:27.159,851] <info> app: RSSI changed, new: -58, channel: 0
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:27.249,328] <info> app: RSSI changed, new: -69, channel: 8
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:27.263,244] <info> app: Sent 236 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:27.331,787] <info> app: RSSI changed, new: -73, channel: 22
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:27.450,683] <info> app: RSSI changed, new: -69, channel: 8
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:27.561,523] <info> app: RSSI changed, new: -67, channel: 31
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:27.561,645] <info> app: Sent 237 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:27.667,114] <info> app: RSSI changed, new: -73, channel: 4
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:27.764,099] <info> app: RSSI changed, new: -66, channel: 32
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:27.889,892] <info> app: RSSI changed, new: -71, channel: 22
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:27.890,075] <info> app: Sent 238 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:28.002,990] <info> app: RSSI changed, new: -67, channel: 35
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:28.114,929] <info> app: RSSI changed, new: -64, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:28.211,914] <info> app: RSSI changed, new: -66, channel: 36
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:28.292,846] <info> app: Sent 239 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:28.331,359] <info> app: RSSI changed, new: -76, channel: 20
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:28.420,837] <info> app: RSSI changed, new: -72, channel: 29
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:28.516,662] <info> app: RSSI changed, new: -80, channel: 17
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:28.591,247] <info> app: Sent 240 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:28.607,299] <info> app: RSSI changed, new: -69, channel: 24
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:28.748,657] <info> app: RSSI changed, new: -67, channel: 30
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:28.853,149] <info> app: RSSI changed, new: -59, channel: 2
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:28.897,094] <info> app: Sent 241 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:28.942,565] <info> app: RSSI changed, new: -72, channel: 5
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:29.039,550] <info> app: RSSI changed, new: -70, channel: 15
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:29.196,472] <info> app: RSSI changed, new: -60, channel: 2
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:29.210,449] <info> app: Sent 242 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:29.292,236] <info> app: RSSI changed, new: -79, channel: 18
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:29.382,873] <info> app: RSSI changed, new: -71, channel: 16
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:29.494,873] <info> app: RSSI changed, new: -69, channel: 30
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:29.516,296] <info> app: Sent 243 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:29.584,350] <info> app: RSSI changed, new: -74, channel: 5
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:29.665,161] <info> app: RSSI changed, new: -66, channel: 34
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:29.778,259] <info> app: RSSI changed, new: -71, channel: 21
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:29.829,711] <info> app: Sent 244 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:29.912,719] <info> app: RSSI changed, new: -59, channel: 2
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:30.009,704] <info> app: RSSI changed, new: -73, channel: 5
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:30.099,121] <info> app: RSSI changed, new: -66, channel: 31
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:30.232,543] <info> app: Sent 245 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:30.240,600] <info> app: RSSI changed, new: -61, channel: 8
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:30.330,566] <info> app: RSSI changed, new: -74, channel: 29
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:30.435,058] <info> app: RSSI changed, new: -67, channel: 35
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:30.539,001] <info> app: RSSI changed, new: -69, channel: 27
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:30.560,485] <info> app: Sent 246 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:30.649,841] <info> app: RSSI changed, new: -66, channel: 9
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:30.770,446] <info> app: RSSI changed, new: -58, channel: 0
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:30.867,370] <info> app: RSSI changed, new: -72, channel: 14
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:30.888,854] <info> app: Sent 247 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:30.979,370] <info> app: RSSI changed, new: -74, channel: 21
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:31.061,279] <info> app: RSSI changed, new: -65, channel: 33
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:31.150,756] <info> app: RSSI changed, new: -72, channel: 4
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:31.202,209] <info> app: Sent 248 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:31.284,057] <info> app: RSSI changed, new: -65, channel: 11
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:31.389,709] <info> app: RSSI changed, new: -72, channel: 6
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:31.471,679] <info> app: RSSI changed, new: -68, channel: 25
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:31.515,625] <info> app: Sent 249 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:31.553,588] <info> app: RSSI changed, new: -60, channel: 0
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:31.635,559] <info> app: RSSI changed, new: -71, channel: 15
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:31.725,585] <info> app: RSSI changed, new: -73, channel: 29
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:31.830,017] <info> app: RSSI changed, new: -59, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:31.903,442] <info> app: Sent 250 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:31.934,509] <info> app: RSSI changed, new: -75, channel: 22
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:32.052,246] <info> app: RSSI changed, new: -67, channel: 31
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:32.157,714] <info> app: RSSI changed, new: -78, channel: 29
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:32.201,660] <info> app: Sent 251 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:32.262,145] <info> app: RSSI changed, new: -75, channel: 28
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:32.404,113] <info> app: RSSI changed, new: -67, channel: 26
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:32.501,098] <info> app: RSSI changed, new: -69, channel: 23
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:32.515,014] <info> app: Sent 252 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:32.598,083] <info> app: RSSI changed, new: -65, channel: 34
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:32.725,036] <info> app: RSSI changed, new: -67, channel: 36
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:32.842,895] <info> app: Sent 253 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:32.858,947] <info> app: RSSI changed, new: -71, channel: 23
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:32.970,947] <info> app: RSSI changed, new: -60, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:33.052,856] <info> app: RSSI changed, new: -70, channel: 24
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:33.156,250] <info> app: Sent 254 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:33.164,794] <info> app: RSSI changed, new: -68, channel: 12
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:33.261,779] <info> app: RSSI changed, new: -70, channel: 24
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:33.373,718] <info> app: RSSI changed, new: -59, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:33.463,195] <info> app: RSSI changed, new: -73, channel: 23
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:33.573,974] <info> app: RSSI changed, new: -64, channel: 3
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:33.574,157] <info> app: Sent 255 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:33.687,072] <info> app: RSSI changed, new: -72, channel: 23
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:33.834,777] <info> app: RSSI changed, new: -79, channel: 14
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:33.939,086] <info> app: Sent 256 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:33.947,692] <info> app: RSSI changed, new: -81, channel: 14
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:34.037,170] <info> app: RSSI changed, new: -69, channel: 30
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:34.156,616] <info> app: RSSI changed, new: -73, channel: 7
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:34.253,540] <info> app: RSSI changed, new: -76, channel: 28
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:34.267,456] <info> app: Sent 257 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:34.341,857] <info> app: RSSI changed, new: -59, channel: 0
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:34.447,448] <info> app: RSSI changed, new: -73, channel: 13
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:34.544,433] <info> app: RSSI changed, new: -66, channel: 26
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:34.595,886] <info> app: Sent 258 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:34.686,401] <info> app: RSSI changed, new: -69, channel: 8
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:34.820,800] <info> app: RSSI changed, new: -59, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:34.902,770] <info> app: RSSI changed, new: -63, channel: 7
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:34.916,748] <info> app: Sent 259 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:34.984,741] <info> app: RSSI changed, new: -71, channel: 35
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:35.074,218] <info> app: RSSI changed, new: -77, channel: 23
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:35.163,696] <info> app: RSSI changed, new: -65, channel: 26
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:35.268,127] <info> app: RSSI changed, new: -68, channel: 33
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:35.304,565] <info> app: Sent 260 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:35.365,051] <info> app: RSSI changed, new: -73, channel: 31
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:35.492,004] <info> app: RSSI changed, new: -60, channel: 2
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:35.581,542] <info> app: RSSI changed, new: -63, channel: 8
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:35.632,934] <info> app: Sent 261 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:35.670,959] <info> app: RSSI changed, new: -66, channel: 5
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:35.805,419] <info> app: RSSI changed, new: -61, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:35.902,404] <info> app: RSSI changed, new: -65, channel: 3
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:35.938,232] <info> app: Sent 262 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:35.999,328] <info> app: RSSI changed, new: -68, channel: 33
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:36.118,774] <info> app: RSSI changed, new: -74, channel: 16
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:36.237,670] <info> app: RSSI changed, new: -65, channel: 7
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:36.259,155] <info> app: Sent 263 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:36.349,670] <info> app: RSSI changed, new: -76, channel: 29
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:36.439,086] <info> app: RSSI changed, new: -66, channel: 12
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:36.529,113] <info> app: RSSI changed, new: -74, channel: 17
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:36.572,509] <info> app: Sent 264 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:36.618,591] <info> app: RSSI changed, new: -62, channel: 9
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:36.723,022] <info> app: RSSI changed, new: -66, channel: 28
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:36.820,007] <info> app: RSSI changed, new: -69, channel: 32
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:36.909,484] <info> app: RSSI changed, new: -66, channel: 7
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:36.975,402] <info> app: Sent 265 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:37.006,469] <info> app: RSSI changed, new: -72, channel: 13
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:37.118,408] <info> app: RSSI changed, new: -65, channel: 8
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:37.206,726] <info> app: RSSI changed, new: -71, channel: 21
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:37.281,250] <info> app: Sent 266 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:37.319,824] <info> app: RSSI changed, new: -73, channel: 13
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:37.401,794] <info> app: RSSI changed, new: -65, channel: 26
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:37.520,080] <info> app: RSSI changed, new: -79, channel: 22
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:37.609,680] <info> app: Sent 267 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:37.633,239] <info> app: RSSI changed, new: -75, channel: 17
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:37.722,656] <info> app: RSSI changed, new: -68, channel: 34
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:37.834,106] <info> app: RSSI changed, new: -70, channel: 36
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:37.923,034] <info> app: Sent 268 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:37.938,598] <info> app: RSSI changed, new: -77, channel: 20
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:38.035,522] <info> app: RSSI changed, new: -69, channel: 36
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:38.133,056] <info> app: RSSI changed, new: -64, channel: 11
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:38.228,942] <info> app: Sent 269 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:38.244,506] <info> app: RSSI changed, new: -66, channel: 7
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:38.356,445] <info> app: RSSI changed, new: -59, channel: 0
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:38.453,369] <info> app: RSSI changed, new: -75, channel: 14
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:38.534,179] <info> app: RSSI changed, new: -65, channel: 7
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:38.609,252] <info> app: Sent 270 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:38.647,277] <info> app: RSSI changed, new: -62, channel: 9
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:38.729,797] <info> app: RSSI changed, new: -64, channel: 11
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:38.826,782] <info> app: RSSI changed, new: -66, channel: 28
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:38.922,546] <info> app: Sent 271 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:38.931,091] <info> app: RSSI changed, new: -68, channel: 25
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:39.049,987] <info> app: RSSI changed, new: -72, channel: 32
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:39.176,940] <info> app: RSSI changed, new: -70, channel: 29
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:39.220,886] <info> app: Sent 272 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:39.273,925] <info> app: RSSI changed, new: -68, channel: 13
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:39.408,325] <info> app: RSSI changed, new: -71, channel: 16
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:39.505,310] <info> app: RSSI changed, new: -74, channel: 14
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:39.548,767] <info> app: Sent 273 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:39.602,294] <info> app: RSSI changed, new: -60, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:39.705,627] <info> app: RSSI changed, new: -69, channel: 35
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:39.818,725] <info> app: RSSI changed, new: -75, channel: 14
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:39.854,675] <info> app: Sent 274 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:39.908,264] <info> app: RSSI changed, new: -66, channel: 25
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:40.005,187] <info> app: RSSI changed, new: -64, channel: 8
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:40.102,111] <info> app: RSSI changed, new: -70, channel: 34
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:40.250,000] <info> app: Sent 275 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:40.266,052] <info> app: RSSI changed, new: -66, channel: 6
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:40.355,529] <info> app: RSSI changed, new: -70, channel: 33
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:40.482,482] <info> app: RSSI changed, new: -73, channel: 14
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:40.563,354] <info> app: Sent 276 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:40.637,756] <info> app: RSSI changed, new: -80, channel: 23
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:40.728,881] <info> app: RSSI changed, new: -74, channel: 29
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:40.825,866] <info> app: RSSI changed, new: -68, channel: 27
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:40.869,262] <info> app: Sent 277 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:40.937,255] <info> app: RSSI changed, new: -74, channel: 30
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:41.049,255] <info> app: RSSI changed, new: -79, channel: 18
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:41.131,713] <info> app: RSSI changed, new: -69, channel: 28
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:41.167,663] <info> app: Sent 278 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:41.228,698] <info> app: RSSI changed, new: -79, channel: 29
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:41.318,176] <info> app: RSSI changed, new: -67, channel: 35
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:41.422,607] <info> app: RSSI changed, new: -70, channel: 15
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:41.481,018] <info> app: Sent 279 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:41.534,057] <info> app: RSSI changed, new: -73, channel: 29
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:41.624,023] <info> app: RSSI changed, new: -70, channel: 12
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:41.742,919] <info> app: RSSI changed, new: -72, channel: 23
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:41.839,904] <info> app: RSSI changed, new: -69, channel: 24
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:41.861,328] <info> app: Sent 280 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:41.981,872] <info> app: RSSI changed, new: -65, channel: 11
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:42.116,271] <info> app: RSSI changed, new: -69, channel: 35
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:42.159,729] <info> app: Sent 281 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:42.242,675] <info> app: RSSI changed, new: -63, channel: 27
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:42.339,660] <info> app: RSSI changed, new: -73, channel: 13
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:42.422,180] <info> app: RSSI changed, new: -82, channel: 21
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:42.473,022] <info> app: Sent 282 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:42.504,089] <info> app: RSSI changed, new: -66, channel: 11
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:42.645,507] <info> app: RSSI changed, new: -60, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:42.742,431] <info> app: RSSI changed, new: -65, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:42.778,869] <info> app: Sent 283 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:42.869,384] <info> app: RSSI changed, new: -71, channel: 23
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:42.958,862] <info> app: RSSI changed, new: -69, channel: 8
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:43.070,800] <info> app: RSSI changed, new: -67, channel: 16
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:43.077,270] <info> app: Sent 284 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:43.182,739] <info> app: RSSI changed, new: -69, channel: 36
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:43.309,692] <info> app: RSSI changed, new: -74, channel: 13
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:43.421,691] <info> app: RSSI changed, new: -72, channel: 15
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:43.487,609] <info> app: Sent 285 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:43.563,110] <info> app: RSSI changed, new: -70, channel: 8
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:43.675,048] <info> app: RSSI changed, new: -77, channel: 20
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:43.764,526] <info> app: RSSI changed, new: -63, channel: 9
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:43.800,964] <info> app: Sent 286 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:43.868,957] <info> app: RSSI changed, new: -69, channel: 28
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:44.025,939] <info> app: RSSI changed, new: -66, channel: 6
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:44.121,826] <info> app: Sent 287 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:44.152,404] <info> app: RSSI changed, new: -86, channel: 15
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:44.234,313] <info> app: RSSI changed, new: -65, channel: 33
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:44.331,848] <info> app: RSSI changed, new: -75, channel: 30
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:44.427,734] <info> app: Sent 288 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:44.435,791] <info> app: RSSI changed, new: -77, channel: 7
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:44.518,310] <info> app: RSSI changed, new: -70, channel: 21
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:44.622,802] <info> app: RSSI changed, new: -73, channel: 11
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:44.719,787] <info> app: RSSI changed, new: -82, channel: 13
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:44.740,661] <info> app: Sent 289 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:44.801,757] <info> app: RSSI changed, new: -58, channel: 0
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:44.897,521] <info> app: RSSI changed, new: -71, channel: 16
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:44.979,553] <info> app: RSSI changed, new: -67, channel: 18
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:45.092,651] <info> app: RSSI changed, new: -59, channel: 2
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:45.129,089] <info> app: Sent 290 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:45.174,621] <info> app: RSSI changed, new: -73, channel: 7
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:45.271,545] <info> app: RSSI changed, new: -69, channel: 19
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:45.398,498] <info> app: RSSI changed, new: -71, channel: 7
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:45.427,429] <info> app: Sent 291 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:45.495,483] <info> app: RSSI changed, new: -57, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:45.599,914] <info> app: RSSI changed, new: -69, channel: 36
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:45.719,421] <info> app: RSSI changed, new: -58, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:45.725,830] <info> app: Sent 292 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:45.800,231] <info> app: RSSI changed, new: -70, channel: 7
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:45.905,822] <info> app: RSSI changed, new: -66, channel: 34
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:46.002,807] <info> app: RSSI changed, new: -68, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:46.046,203] <info> app: Sent 293 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:46.136,718] <info> app: RSSI changed, new: -86, channel: 22
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:46.226,745] <info> app: RSSI changed, new: -66, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:46.359,619] <info> app: Sent 294 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:46.405,700] <info> app: RSSI changed, new: -68, channel: 8
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:46.525,085] <info> app: RSSI changed, new: -58, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:46.614,440] <info> app: RSSI changed, new: -71, channel: 35
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:46.733,337] <info> app: RSSI changed, new: -75, channel: 24
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:46.739,807] <info> app: Sent 295 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:46.814,697] <info> app: RSSI changed, new: -72, channel: 24
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:46.905,334] <info> app: RSSI changed, new: -65, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:47.009,826] <info> app: RSSI changed, new: -68, channel: 17
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:47.045,715] <info> app: Sent 296 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:47.099,304] <info> app: RSSI changed, new: -64, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:47.195,129] <info> app: RSSI changed, new: -71, channel: 16
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:47.308,227] <info> app: RSSI changed, new: -67, channel: 18
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:47.344,116] <info> app: Sent 297 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:47.405,212] <info> app: RSSI changed, new: -69, channel: 19
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:47.509,643] <info> app: RSSI changed, new: -74, channel: 16
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:47.606,628] <info> app: RSSI changed, new: -68, channel: 26
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:47.650,085] <info> app: Sent 298 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:47.711,120] <info> app: RSSI changed, new: -65, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:47.808,044] <info> app: RSSI changed, new: -67, channel: 34
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:47.942,016] <info> app: RSSI changed, new: -70, channel: 27
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:47.948,425] <info> app: Sent 299 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:48.083,984] <info> app: RSSI changed, new: -73, channel: 16
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:48.173,400] <info> app: RSSI changed, new: -76, channel: 15
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:48.270,385] <info> app: RSSI changed, new: -67, channel: 26
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:48.351,257] <info> app: Sent 300 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:48.382,324] <info> app: RSSI changed, new: -57, channel: 0
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:48.471,740] <info> app: RSSI changed, new: -67, channel: 25
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:48.606,201] <info> app: RSSI changed, new: -73, channel: 13
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:48.664,611] <info> app: Sent 301 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:48.688,171] <info> app: RSSI changed, new: -70, channel: 30
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:48.785,156] <info> app: RSSI changed, new: -64, channel: 32
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:48.867,065] <info> app: RSSI changed, new: -57, channel: 0
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:48.956,542] <info> app: RSSI changed, new: -78, channel: 13
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:48.970,458] <info> app: Sent 302 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:49.075,988] <info> app: RSSI changed, new: -68, channel: 28
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:49.210,449] <info> app: RSSI changed, new: -92, channel: 21
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:49.291,259] <info> app: RSSI changed, new: -70, channel: 5
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:49.291,381] <info> app: Sent 303 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:49.426,818] <info> app: RSSI changed, new: -65, channel: 11
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:49.508,789] <info> app: RSSI changed, new: -69, channel: 28
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:49.597,229] <info> app: Sent 304 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:49.620,788] <info> app: RSSI changed, new: -65, channel: 33
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:49.739,685] <info> app: RSSI changed, new: -57, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:49.828,552] <info> app: RSSI changed, new: -70, channel: 28
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:49.918,090] <info> app: Sent 305 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:49.963,623] <info> app: RSSI changed, new: -65, channel: 11
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:50.045,593] <info> app: RSSI changed, new: -74, channel: 30
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:50.142,517] <info> app: RSSI changed, new: -65, channel: 33
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:50.247,009] <info> app: RSSI changed, new: -57, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:50.305,908] <info> app: Sent 306 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:50.336,425] <info> app: RSSI changed, new: -66, channel: 27
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:50.448,364] <info> app: RSSI changed, new: -76, channel: 22
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:50.537,902] <info> app: RSSI changed, new: -67, channel: 28
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:50.633,728] <info> app: Sent 307 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:50.687,316] <info> app: RSSI changed, new: -75, channel: 29
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:50.776,794] <info> app: RSSI changed, new: -65, channel: 26
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:50.866,210] <info> app: RSSI changed, new: -58, channel: 0
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:50.939,636] <info> app: Sent 308 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:50.955,688] <info> app: RSSI changed, new: -68, channel: 28
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:51.105,102] <info> app: RSSI changed, new: -88, channel: 20
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:51.194,580] <info> app: RSSI changed, new: -71, channel: 8
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:51.268,005] <info> app: Sent 309 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:51.314,086] <info> app: RSSI changed, new: -68, channel: 9
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:51.447,937] <info> app: RSSI changed, new: -79, channel: 21
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:51.537,414] <info> app: RSSI changed, new: -67, channel: 9
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:51.603,820] <info> app: Sent 310 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:51.641,845] <info> app: RSSI changed, new: -69, channel: 34
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:51.738,830] <info> app: RSSI changed, new: -74, channel: 21
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:51.827,636] <info> app: RSSI changed, new: -70, channel: 18
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:51.918,273] <info> app: RSSI changed, new: -65, channel: 10
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:51.976,684] <info> app: Sent 311 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:52.022,766] <info> app: RSSI changed, new: -71, channel: 14
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:52.141,662] <info> app: RSSI changed, new: -65, channel: 5
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:52.246,093] <info> app: RSSI changed, new: -75, channel: 14
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:52.290,039] <info> app: Sent 312 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:52.335,571] <info> app: RSSI changed, new: -64, channel: 4
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:52.447,509] <info> app: RSSI changed, new: -69, channel: 35
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:52.566,955] <info> app: RSSI changed, new: -58, channel: 1
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:52.618,408] <info> app: Sent 313 KBytes
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:52.656,372] <info> app: RSSI changed, new: -80, channel: 21
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:52.753,356] <info> app: RSSI changed, new: -64, channel: 9
+[1;32mthroughput example:~$ [1;37m[22D[J[00:05:52.787,048] <error> app: Fatal error
+[22D[J[00:05:52.791,870] <warning> app: System reset
+[1;37m[40m
+
+[1;32mthroughput example:~$ [1;37m[22D[J[00:00:00.000,061] <info> app: ATT MTU example started.
+[1;32mthroughput example:~$ [1;37m[22D[J[00:00:00.000,061] <info> app: Press button 3 on the board connected to the PC.
+[1;32mthroughput example:~$ [1;37m[22D[J[00:00:00.000,061] <info> app: Press button 4 on other board.
+[1;32mthroughput example:~$ [1;37m
